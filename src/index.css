@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Nirmala UI", sans-serif;
+  background: #00b19c;
+  background: -webkit-linear-gradient(to right, #a0d9d9, #00b19c);
+  background: linear-gradient(to right, #a0d9d9, #00b19c);
+}
